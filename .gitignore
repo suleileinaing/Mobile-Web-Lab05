@@ -1,0 +1,9 @@
+.github/modernize/
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
